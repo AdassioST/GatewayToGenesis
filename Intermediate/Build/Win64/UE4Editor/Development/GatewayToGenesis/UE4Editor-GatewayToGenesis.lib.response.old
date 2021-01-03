@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GatewayToGenesis.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\GatewayToGenesisEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GatewayToGenesis.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GatewayToGenesisCharacter.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GatewayToGenesisGameMode.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GenesisCharacter.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GenesisController.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GatewayToGenesis.init.gen.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GatewayToGenesisCharacter.gen.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GatewayToGenesisGameMode.gen.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GenesisCharacter.gen.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\GenesisController.gen.cpp.obj"
+"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\Default.rc2.res"
+/OUT:"C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\UE4Editor-GatewayToGenesis.lib"
+/INCLUDE:IMPLEMENT_MODULE_GatewayToGenesis

@@ -1,0 +1,3 @@
+C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Development\GatewayToGenesis\Definitions.GatewayToGenesis.h
+C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Source\GatewayToGenesis\GenesisController.h
+C:\Users\Adass\Documents\Unreal Projects\GatewayToGenesis\Intermediate\Build\Win64\UE4Editor\Inc\GatewayToGenesis\GenesisController.generated.h

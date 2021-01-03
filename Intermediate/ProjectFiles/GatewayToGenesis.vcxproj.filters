@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\GatewayToGenesis.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1B4DF9E9-BFE8-4D30-AE9E-4A6B99454C78}</UniqueIdentifier>
+      <UniqueIdentifier>{A5D5D287-2550-4F58-8236-BAC57B1E04CF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GatewayToGenesis.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\GatewayToGenesisEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\GatewayToGenesis.png" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{6EB764D0-4CDA-4920-8535-F37B936B9999}</UniqueIdentifier>
+      <UniqueIdentifier>{4510A932-FC6F-45BA-84E7-B85A9AE8D5E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\GatewayToGenesis">
-      <UniqueIdentifier>{A8404A1B-1D30-43EE-8A50-70D95D5B7E17}</UniqueIdentifier>
+      <UniqueIdentifier>{CE4629B1-BBCF-4CBD-B7F6-3D020806025F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\GatewayToGenesis\GatewayToGenesis.Build.cs">
       <Filter>Source\GatewayToGenesis</Filter>
@@ -51,6 +54,24 @@
       <Filter>Source\GatewayToGenesis</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\GatewayToGenesis\GatewayToGenesisGameMode.h">
+      <Filter>Source\GatewayToGenesis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GatewayToGenesis\GenesisCharacter.cpp">
+      <Filter>Source\GatewayToGenesis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GatewayToGenesis\GenesisCharacter.h">
+      <Filter>Source\GatewayToGenesis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GatewayToGenesis\GenesisController.cpp">
+      <Filter>Source\GatewayToGenesis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GatewayToGenesis\GenesisController.h">
+      <Filter>Source\GatewayToGenesis</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GatewayToGenesis\GenesisGameMode.cpp">
+      <Filter>Source\GatewayToGenesis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GatewayToGenesis\GenesisGameMode.h">
       <Filter>Source\GatewayToGenesis</Filter>
     </ClInclude>
   </ItemGroup>
