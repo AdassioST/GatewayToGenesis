@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GatewayToGenesis",
+			"Path": "C:\\Users\\Adass\\Documents\\Unreal Projects\\GatewayToGenesis\\Source\\GatewayToGenesis.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GatewayToGenesisEditor",
+			"Path": "C:\\Users\\Adass\\Documents\\Unreal Projects\\GatewayToGenesis\\Source\\GatewayToGenesisEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
