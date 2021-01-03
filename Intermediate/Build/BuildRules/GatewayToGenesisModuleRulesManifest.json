@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Adass\\Documents\\Unreal Projects\\GatewayToGenesis\\Source\\GatewayToGenesis\\GatewayToGenesis.Build.cs",
+		"C:\\Users\\Adass\\Documents\\Unreal Projects\\GatewayToGenesis\\Source\\GatewayToGenesis.Target.cs",
+		"C:\\Users\\Adass\\Documents\\Unreal Projects\\GatewayToGenesis\\Source\\GatewayToGenesisEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}
